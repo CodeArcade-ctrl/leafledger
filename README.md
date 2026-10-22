@@ -1,5 +1,7 @@
 # LeafLedger
 
+> **[Open the live app](https://codearcade-ctrl.github.io/leafledger/)** · [English version](https://codearcade-ctrl.github.io/leafledger/en/)
+
 **Houd per plant bij wanneer je die voor het laatst hebt verzorgd.**
 
 ## Voor wie?
